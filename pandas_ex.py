@@ -5,3 +5,5 @@ df = pd.DataFrame(np.random.randn(5, 4), index=['a', 'c', 'e', 'f', 'h'], column
 
 print(df)
 print(df.loc['c'])
+
+print(df.describe())
