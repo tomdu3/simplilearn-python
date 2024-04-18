@@ -18,4 +18,7 @@ It provides high-performance multidimensional array objects and tools for workin
 
 - 1D arrays, 2D arrays, 3D arrays, ...
 
-
+- reasons to use numpy over lists:
+    1. fast
+    2. memory efficient - uses less memory
+    3. convenient
